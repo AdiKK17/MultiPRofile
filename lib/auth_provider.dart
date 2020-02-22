@@ -19,7 +19,7 @@ class AuthProvider extends ChangeNotifier {
 
   final List<Map<String,dynamic>> _loggedInUserAccounts = [];
 
-  final ngrokUrl = "https://e3ecddb1.ngrok.i";
+  final ngrokUrl = "https://e3ecddb1.ngrok.i0";
 
 
   String get username{
